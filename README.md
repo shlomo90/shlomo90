@@ -1,7 +1,4 @@
-### Welcome!
+### Welcome Everyone!
 
-My repository has some code to help developers to make their code well.
-
-But, It doens't have as many as you expect. (I'm lazy and don't like typing too much)
-
-Enjoy!
+Github is a good platform to connect between me and world. Hope my activities help other people.
+Feel free to look around my repositories and you can contribute them if you want.
